@@ -1,3 +1,3 @@
 # Tugas 1 javascript
-# Nama : tri aji tunggal 
+# Nama : Tri Aji Tunggal S
 # email : triajitunggals@gmail.com
